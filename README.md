@@ -1,0 +1,1 @@
+# aniread-extension-updates
